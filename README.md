@@ -32,12 +32,13 @@ This project tackles the Traveling Salesman Problem (TSP), a classic optimizatio
 dataset:<br>
 Methodology:<br>
 
-Graph Input: Takes a weighted graph representing cities and distances.<br>
-Algorithm Implementation: Uses approaches like brute-force, dynamic programming, or heuristics to compute optimal routes.<br>
+
+Algorithm Implementation: Uses approaches  dynamic programmings.<br>
 Output: Displays the optimal route and its total cost, saved for further analysis.<br>
 Results:<br>
 The TSP implementation identifies efficient routes, minimizing travel distances for the given graph data.
 <br>
+dataset :uk_cities.csv<br>
 Conclusion:<br>
 The project demonstrates TSP's potential to solve routing problems. Future improvements could explore additional optimization techniques for larger datasets.<br>
 
